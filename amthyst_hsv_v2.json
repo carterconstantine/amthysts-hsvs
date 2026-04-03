@@ -108,15 +108,5 @@
             "threshold": 0,
             "text": "<alpha=#7f>"
         }
-    ],
-    "randomizeBadCutDisplays": false,
-    "badCutDisplays": [
-	    { "text": "Angle!", "type": "WrongDirection", "color": [1, 1, 1, 1] },
-	    { "text": "Color!", "type": "WrongColor", "color": [1, 1, 1, 1] },
-	    { "text": "Boom!", "type": "Bomb", "color": [1, 1, 1, 1] }
-    ],
-    "randomizeMissDisplays": false,
-    "missDisplays": [
-	    { "text": "Miss!", "color": [1, 1, 1, 1] }
     ]
 }
